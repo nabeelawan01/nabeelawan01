@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Nabeel Anwar
 
-<!--
-**nabeelawan01/nabeelawan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring AI/ML Engineer passionate about building real-world solutions with Machine Learning & Deep Learning.
 
-Here are some ideas to get you started:
+🔭 Currently Learning:
+- Python for Data Science
+- Machine Learning (Scikit-learn, Pandas, Matplotlib)
+- Deep Learning (TensorFlow/Keras)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 My Goals:
+- 📌 Build real AI projects
+- 📌 Learn from open-source code
+- 📌 Land my first ML internship
+
+🚀 Projects I'm working on:
+- ✅ Spam Email Classifier
+- ✅ House Price Prediction Model
+- 🚧 CNN-based Image Classifier (In progress)
+
+📬 Let's connect!
+- LinkedIn: [https://www.linkedin.com/in/nabeel-anwar99/]
+- Portfolio (soon): Coming soon!
