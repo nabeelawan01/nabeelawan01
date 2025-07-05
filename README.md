@@ -20,3 +20,10 @@
 📬 Let's connect!
 - LinkedIn: [https://www.linkedin.com/in/nabeel-anwar99/]
 - Portfolio (soon): Coming soon!
+---
+
+### 📊 GitHub Stats
+
+![Nabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabeelawan01&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelawan01&layout=compact&theme=tokyonight)
