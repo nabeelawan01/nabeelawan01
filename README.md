@@ -19,7 +19,6 @@
 
 📬 Let's connect!
 - LinkedIn: [https://www.linkedin.com/in/nabeel-anwar99/]
-- Portfolio (soon): Coming soon!
 ---
 
 ### 📊 GitHub Stats
